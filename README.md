@@ -1,2 +1,2 @@
-# Labs
-This is a repository for Labs regarding the class Fundamentals of Web Development.
+# Lab 1
+This is lab one.
